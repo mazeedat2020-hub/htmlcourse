@@ -1,0 +1,35 @@
+.muslimah {
+    color: blue;
+    background-color: antiquewhite;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 1.5;
+}
+#novel {
+    color: green;
+    background-color: brown;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+*{
+    background-image: url('KE_Prostalix copy 2 (2).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    border: 10px solid black;
+    border-radius: 10px;
+    border-top-right-radius: 50px;
+}
+
+.box {
+    border: 5px solid red;
+    height: 10px;
+    padding: 2px;
+}
